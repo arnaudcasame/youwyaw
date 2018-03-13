@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "657779657042",
+    "firebase_url": "https://youwyaw.firebaseio.com",
+    "project_id": "youwyaw",
+    "storage_bucket": "youwyaw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657779657042:android:b69a4526ef61e822",
+        "android_client_info": {
+          "package_name": "com.example.android.youwyaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657779657042-4q61k0g8v6kgkns6r9ermvmim1erb25f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.youwyaw",
+            "certificate_hash": "98c076ca5149d18d766bf54c96c2c58f75a447a3"
+          }
+        },
+        {
+          "client_id": "657779657042-8g4g7dd5rhjmgc0ge8f6aoar64f3uu2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDocTBmw7UK4e4ISqWlc0BKqt_vHDrRp-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657779657042-8g4g7dd5rhjmgc0ge8f6aoar64f3uu2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
